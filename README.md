@@ -100,6 +100,8 @@ The simulator’s feature to create your own dataset of images makes it easy to 
 
 A few images from the dataset are shown below .
 
+# Pic wich i have in folder IMG only for visualization your data will be more than 5000 pic.
+
 <img alt="8" src="https://user-images.githubusercontent.com/91852182/147299066-17bb3db0-5f1c-44ff-ab7e-41786c243d4f.png">
 
 A sample of driving_log.csv file is shown in Figure 9.
